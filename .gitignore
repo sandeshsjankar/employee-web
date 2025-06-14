@@ -1,0 +1,52 @@
+# Angular build output
+/dist/
+/out-tsc/
+
+# Node dependencies
+/node_modules/
+
+# Compiled output
+*.js
+*.js.map
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Optional npm cache directory
+.npm
+
+# Angular environment files (optional, if you don't want to track secrets)
+# /src/environments/environment.prod.ts
+# /src/environments/environment.ts
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+/coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.swp
+
+# Output of Angular CLI
+.angular/
+
+# Local Angular CLI cache
+/.angular/cache/
